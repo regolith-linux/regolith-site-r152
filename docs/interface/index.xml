@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regolith 1.5.2 – The Interface</title>
-    <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/</link>
+    <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/</link>
     <description>Recent content in The Interface on Regolith 1.5.2</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://regolith-linux.github.io/regolith-site-r151/docs/interface/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://regolith-linux.github.io/regolith-site-r152/docs/interface/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,14 +15,14 @@
     
     <item>
       <title>Docs: Working with Applications</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/apps/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/apps/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/apps/</guid>
       <description>
         
         
-        &lt;p&gt;As mentioned in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/basics/&#34;&gt;Getting Started&lt;/a&gt; section, 
+        &lt;p&gt;As mentioned in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/basics/&#34;&gt;Getting Started&lt;/a&gt; section, 
 
 &lt;span class=&#34;text-nowrap&#34;&gt;
     
@@ -157,10 +157,10 @@
     
     <item>
       <title>Docs: Notifications</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/notifications/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/notifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/notifications/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/notifications/</guid>
       <description>
         
         
@@ -205,10 +205,10 @@
     
     <item>
       <title>Docs: System Configuration</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/system/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/system/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/system/</guid>
       <description>
         
         
@@ -230,14 +230,14 @@
 
 
 &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
-&lt;p&gt;Maintaining a user copy of the i3 config file requires more work when upgrading Regolith, as changes have to managed from the defaults into the user config to support new features in subsequent versions. If possible, it is better to rely on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/override-xres/&#34;&gt;&lt;code&gt;Xresources&lt;/code&gt; overrides&lt;/a&gt; to customize i3.&lt;/p&gt;
+&lt;p&gt;Maintaining a user copy of the i3 config file requires more work when upgrading Regolith, as changes have to managed from the defaults into the user config to support new features in subsequent versions. If possible, it is better to rely on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/override-xres/&#34;&gt;&lt;code&gt;Xresources&lt;/code&gt; overrides&lt;/a&gt; to customize i3.&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;h2 id=&#34;i3bar&#34;&gt;i3bar&lt;/h2&gt;
-&lt;p&gt;The i3bar configuration is defined in the i3 config file listed directly above, but the i3bar has it&amp;rsquo;s own configuration for status items. To change which information is displayed in the bar, the config directory is &lt;code&gt;/etc/regolith/i3xrocks/conf.d&lt;/code&gt;. There is one file in this directory for every status item, plus &lt;code&gt;01_setup&lt;/code&gt;. The prefixed number defines the order in which the blocks are displayed on the bar. We maintain a &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/&#34;&gt;separate documentation&lt;/a&gt; on how to customize and switch around the indicators on the bar.&lt;/p&gt;
+&lt;p&gt;The i3bar configuration is defined in the i3 config file listed directly above, but the i3bar has it&amp;rsquo;s own configuration for status items. To change which information is displayed in the bar, the config directory is &lt;code&gt;/etc/regolith/i3xrocks/conf.d&lt;/code&gt;. There is one file in this directory for every status item, plus &lt;code&gt;01_setup&lt;/code&gt;. The prefixed number defines the order in which the blocks are displayed on the bar. We maintain a &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/&#34;&gt;separate documentation&lt;/a&gt; on how to customize and switch around the indicators on the bar.&lt;/p&gt;
 &lt;h2 id=&#34;look&#34;&gt;Look&lt;/h2&gt;
-&lt;p&gt;The look of Regolith is configured via &lt;code&gt;Xresources&lt;/code&gt;, that live in &lt;code&gt;/etc/regolith/styles/&lt;/code&gt;. This topic is covered in detail in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/customize/&#34;&gt;Customize&lt;/a&gt; section of the documentation.&lt;/p&gt;
+&lt;p&gt;The look of Regolith is configured via &lt;code&gt;Xresources&lt;/code&gt;, that live in &lt;code&gt;/etc/regolith/styles/&lt;/code&gt;. This topic is covered in detail in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/customize/&#34;&gt;Customize&lt;/a&gt; section of the documentation.&lt;/p&gt;
 &lt;h2 id=&#34;session&#34;&gt;Session&lt;/h2&gt;
 &lt;p&gt;When Regolith is initially loaded, a script is run that configures the system and launches &lt;code&gt;i3-wm&lt;/code&gt;. While it is not recommended to modify this script, it can provide details about how Regolith is structured and what policy it implements when loading configuration. This file is readable at &lt;code&gt;/usr/bin/i3-gnome-flashback&lt;/code&gt;. In fact, this script could be considered the initial seed of the Regolith project and was taken from the &lt;a href=&#34;https://github.com/deuill/i3-gnome-flashback&#34;&gt;i3-gnome-flashback&lt;/a&gt; project.&lt;/p&gt;
 
@@ -246,10 +246,10 @@
     
     <item>
       <title>Docs: Advanced</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/advanced/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/advanced/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/advanced/</guid>
       <description>
         
         

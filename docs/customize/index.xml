@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regolith 1.5.2 – Customize</title>
-    <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/</link>
+    <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/</link>
     <description>Recent content in Customize on Regolith 1.5.2</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://regolith-linux.github.io/regolith-site-r151/docs/customize/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://regolith-linux.github.io/regolith-site-r152/docs/customize/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Look</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/look/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/look/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/look/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/look/</guid>
       <description>
         
         
@@ -51,13 +51,13 @@
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-57f7f2a306941a587c4ff7c1f7f14891ecb594254eb00e2574ed8ff142285db3&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-select-look_hu0072e1a729bbceaae2457311ea01b479_3045009_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-select-look_hu0072e1a729bbceaae2457311ea01b479_3045009_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-57f7f2a306941a587c4ff7c1f7f14891ecb594254eb00e2574ed8ff142285db3&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-select-look.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-select-look.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -100,10 +100,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Styles</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/styles/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/styles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/styles/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/styles/</guid>
       <description>
         
         
@@ -141,10 +141,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Compositors</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/compositors/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/compositors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/compositors/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/compositors/</guid>
       <description>
         
         
@@ -214,10 +214,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Components</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/components/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/components/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/components/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/components/</guid>
       <description>
         
         
@@ -290,10 +290,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Packages</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/packages/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/packages/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/packages/</guid>
       <description>
         
         
@@ -306,13 +306,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-39f8432e7d7157398241bcffdbe3f54a4893cf07e94be9fe30b9c98da004d835&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-desktop-graph-l2_hub6baaa44380ccf9476b4080d1068a811_293017_636x0_resize_catmullrom_2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-desktop-graph-l2_hub6baaa44380ccf9476b4080d1068a811_293017_636x0_resize_catmullrom_2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-39f8432e7d7157398241bcffdbe3f54a4893cf07e94be9fe30b9c98da004d835&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-desktop-graph-l2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-desktop-graph-l2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -365,7 +365,7 @@ $ regolith-look refresh
 &lt;/ul&gt;
 &lt;p&gt;Of course, any of these packages can be re-added by the user after installation using a variety of tools including the app store.&lt;/p&gt;
 &lt;h3 id=&#34;regolith-13&#34;&gt;Regolith 1.3&lt;/h3&gt;
-&lt;p&gt;For the 1.3 release of Regolith, changes from baseline Ubuntu are &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.3-release-notes/#iso-generation&#34;&gt;documented here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the 1.3 release of Regolith, changes from baseline Ubuntu are &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.3-release-notes/#iso-generation&#34;&gt;documented here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>

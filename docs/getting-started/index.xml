@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regolith 1.5.2 – Getting Started</title>
-    <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/</link>
+    <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/</link>
     <description>Recent content in Getting Started on Regolith 1.5.2</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Install</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/install/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/install/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/install/</guid>
       <description>
         
         
@@ -53,23 +53,23 @@
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-56e069dd238bc68efd12884c2b05f34156d88d7bab94a83ad379630b1b6add73&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-login_hu3f30a5eea54dd33b1a802fe102ff9462_28051_636x0_resize_catmullrom_2.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-login_hu3f30a5eea54dd33b1a802fe102ff9462_28051_636x0_resize_catmullrom_2.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-56e069dd238bc68efd12884c2b05f34156d88d7bab94a83ad379630b1b6add73&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-login.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-login.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 
 
-&lt;p&gt;From this point, please proceed to the next section, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/docs/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; to learn about the most common changes people like to make to Regolith.&lt;/p&gt;
+&lt;p&gt;From this point, please proceed to the next section, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/docs/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; to learn about the most common changes people like to make to Regolith.&lt;/p&gt;
 &lt;h3 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h3&gt;
 &lt;h4 id=&#34;status-indicators-missing-after-upgrade&#34;&gt;Status indicators missing after Upgrade&lt;/h4&gt;
-&lt;p&gt;Regolith 1.4 changes the way in which blocks are installed and configured. This change is necessary to cleanly support the &lt;code&gt;arm64&lt;/code&gt; architecture and make it simple to swap out components like the notification subsystem. From 1.4 onward, blocks are installed by the package manager. See &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/&#34;&gt;this Howto&lt;/a&gt; on adding and configuring blocks.&lt;/p&gt;
+&lt;p&gt;Regolith 1.4 changes the way in which blocks are installed and configured. This change is necessary to cleanly support the &lt;code&gt;arm64&lt;/code&gt; architecture and make it simple to swap out components like the notification subsystem. From 1.4 onward, blocks are installed by the package manager. See &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/&#34;&gt;this Howto&lt;/a&gt; on adding and configuring blocks.&lt;/p&gt;
 &lt;h2 id=&#34;reinstallation&#34;&gt;Reinstallation&lt;/h2&gt;
 &lt;p&gt;In the case that the Regolith desktop environment becomes corrupted or otherwise unbootable, follow these steps to reset it. No user files will be removed as part of this process:&lt;/p&gt;
 &lt;ol&gt;
@@ -214,10 +214,10 @@ $ rm -Rf ~/.config/regolith/flags
     
     <item>
       <title>Docs: Upgrading</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/upgrading/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/upgrading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/upgrading/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/upgrading/</guid>
       <description>
         
         
@@ -237,7 +237,7 @@ $ sudo apt update &amp;amp;&amp;amp; sudo apt dist-upgrade
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ mkdir ~/regolith-backup
 $ mv ~/.Xresources-regolith ~/regolith-backup
 $ mv ~/.config/regolith ~/regolith-backup
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once these steps are performed, logging back in should result in a &amp;ldquo;stock&amp;rdquo; instance of Regolith. From there, any changes desired to be reintegrated can be done by &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/&#34;&gt;staging&lt;/a&gt; and then editing the new versions of the Regolith config files that exist in the &lt;code&gt;/etc/regolith&lt;/code&gt; directory. Afterwards, it makes sense to apply your &lt;code&gt;Xresources&lt;/code&gt; definitions one-by-one to make sure they&amp;rsquo;re still valid and working as intended.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once these steps are performed, logging back in should result in a &amp;ldquo;stock&amp;rdquo; instance of Regolith. From there, any changes desired to be reintegrated can be done by &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/&#34;&gt;staging&lt;/a&gt; and then editing the new versions of the Regolith config files that exist in the &lt;code&gt;/etc/regolith&lt;/code&gt; directory. Afterwards, it makes sense to apply your &lt;code&gt;Xresources&lt;/code&gt; definitions one-by-one to make sure they&amp;rsquo;re still valid and working as intended.&lt;/p&gt;
 &lt;h3 id=&#34;edits-to-etcregolith-files&#34;&gt;Edits to &lt;code&gt;/etc/regolith/...&lt;/code&gt; files&lt;/h3&gt;
 &lt;p&gt;If you&amp;rsquo;ve taken shortcuts and manually edited files owned by &lt;code&gt;root&lt;/code&gt; in &lt;code&gt;/etc/regolith&lt;/code&gt; or elsewhere, the packaging tool may not update the files, nor mention that stale files have been left. Even removing the package via &lt;code&gt;apt remove ...&lt;/code&gt; may not result in a clean system. In this case, use the purge command to remove the package and manually delete any left over files. For example, to clean up the i3 config file:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;$ sudo apt purge regolith-i3-gaps-config
@@ -270,10 +270,10 @@ $ sudo apt install regolith-i3-gaps-config
     
     <item>
       <title>Docs: Basic Usage</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/basics/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/basics/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/basics/</guid>
       <description>
         
         
@@ -380,13 +380,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-aff65ef620617c546a5c7e277d907dd7f1758160a95f6ac15445ab9eba1b2b21&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/screenshot-launcher_hu0072e1a729bbceaae2457311ea01b479_3074312_636x0_resize_catmullrom_2.png&#34; alt=&#34;Launch an application&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/screenshot-launcher_hu0072e1a729bbceaae2457311ea01b479_3074312_636x0_resize_catmullrom_2.png&#34; alt=&#34;Launch an application&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-aff65ef620617c546a5c7e277d907dd7f1758160a95f6ac15445ab9eba1b2b21&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/screenshot-launcher.png&#34; alt=&#34;Launch an application&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/screenshot-launcher.png&#34; alt=&#34;Launch an application&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -414,13 +414,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-3a44e5b8bbd2f0808f3de48ea5d8055abadda6d807e7fc8fe9151e7389fdc92d&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-window-nav2_hu49064f74a175883fd99b9390ff072bfd_1499384_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-window-nav2_hu49064f74a175883fd99b9390ff072bfd_1499384_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-3a44e5b8bbd2f0808f3de48ea5d8055abadda6d807e7fc8fe9151e7389fdc92d&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-window-nav2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-window-nav2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -477,13 +477,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-57ec2c0ee5cc742edb40e5e676cb8233f66b7c482d553c6e2daf84b63d1b5d6d&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-file-search_hu49064f74a175883fd99b9390ff072bfd_1541121_636x0_resize_catmullrom_2.png&#34; alt=&#34;Open file dialog&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-file-search_hu49064f74a175883fd99b9390ff072bfd_1541121_636x0_resize_catmullrom_2.png&#34; alt=&#34;Open file dialog&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-57ec2c0ee5cc742edb40e5e676cb8233f66b7c482d553c6e2daf84b63d1b5d6d&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-file-search.png&#34; alt=&#34;Open file dialog&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-file-search.png&#34; alt=&#34;Open file dialog&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -587,13 +587,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-c5d25f96c93b2830b2ce37a7c1a1f3ae2ab29acc321d3e9d9e1cf0de94596f2d&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-control-panel_hubbbd57e1be5e3f1d99b9ecd8a856bc43_79759_636x0_resize_catmullrom_2.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-control-panel_hubbbd57e1be5e3f1d99b9ecd8a856bc43_79759_636x0_resize_catmullrom_2.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-c5d25f96c93b2830b2ce37a7c1a1f3ae2ab29acc321d3e9d9e1cf0de94596f2d&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-control-panel.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-control-panel.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -626,10 +626,10 @@ $ sudo apt install regolith-i3-gaps-config
     
     <item>
       <title>Docs: Configuration</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/configuration/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/configuration/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/configuration/</guid>
       <description>
         
         
@@ -652,13 +652,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-8e1ee02f706a7f2858d81b91ba8297bf825222be1d3e0bd054afe9acc176d93a&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-wallpaper_hude4d72a4270911ee6adb739aa00de421_242021_636x0_resize_catmullrom_2.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-wallpaper_hude4d72a4270911ee6adb739aa00de421_242021_636x0_resize_catmullrom_2.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-8e1ee02f706a7f2858d81b91ba8297bf825222be1d3e0bd054afe9acc176d93a&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-wallpaper.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-wallpaper.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -666,9 +666,9 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;p&gt;Wallpaper can also be set via &lt;a href=&#34;https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory&#34;&gt;dotfiles&lt;/a&gt; for those that prefer file-based configuration management over GSettings.&lt;/p&gt;
-&lt;p&gt;Regardless of which style you prefer, you can refer to the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/configure-wallpaper/&#34;&gt;more extensive documentation&lt;/a&gt; for additional details.&lt;/p&gt;
+&lt;p&gt;Regardless of which style you prefer, you can refer to the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/configure-wallpaper/&#34;&gt;more extensive documentation&lt;/a&gt; for additional details.&lt;/p&gt;
 &lt;h2 id=&#34;status-bar-indicators&#34;&gt;Status Bar Indicators&lt;/h2&gt;
-&lt;p&gt;Status indicators such as CPU load, date and time, notifications, weather, and other system info can be added or removed by installing packages. For example, to show a status indicator for your laptop battery, simply run &lt;code&gt;sudo apt install i3xrocks-battery&lt;/code&gt; and then refresh the session using &lt;code&gt;regolith-look refresh&lt;/code&gt;. To find what indicators are available, run &lt;code&gt;apt search ^i3xrocks-&lt;/code&gt; or search for &lt;code&gt;i3xrocks-&lt;/code&gt; in your favorite package manager GUI, such as &lt;a href=&#34;https://help.ubuntu.com/community/SynapticHowto&#34;&gt;Synaptic&lt;/a&gt;. There is &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/&#34;&gt;more documentation available&lt;/a&gt; for configuring status indicators, also called &amp;ldquo;blocklets&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Status indicators such as CPU load, date and time, notifications, weather, and other system info can be added or removed by installing packages. For example, to show a status indicator for your laptop battery, simply run &lt;code&gt;sudo apt install i3xrocks-battery&lt;/code&gt; and then refresh the session using &lt;code&gt;regolith-look refresh&lt;/code&gt;. To find what indicators are available, run &lt;code&gt;apt search ^i3xrocks-&lt;/code&gt; or search for &lt;code&gt;i3xrocks-&lt;/code&gt; in your favorite package manager GUI, such as &lt;a href=&#34;https://help.ubuntu.com/community/SynapticHowto&#34;&gt;Synaptic&lt;/a&gt;. There is &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/&#34;&gt;more documentation available&lt;/a&gt; for configuring status indicators, also called &amp;ldquo;blocklets&amp;rdquo;.&lt;/p&gt;
 
 
 
@@ -677,13 +677,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-327a209420d3a973bfd1f5ac7a5f9bda7606178e07cb3a622f21ed49498be2ca&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-synaptic-search_hu735fcbfc12996ac525b16b6e3adcb219_75557_636x0_resize_catmullrom_2.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-synaptic-search_hu735fcbfc12996ac525b16b6e3adcb219_75557_636x0_resize_catmullrom_2.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-327a209420d3a973bfd1f5ac7a5f9bda7606178e07cb3a622f21ed49498be2ca&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-synaptic-search.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-synaptic-search.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -719,7 +719,7 @@ $ regolith-look refresh
     &lt;span class=&#34;badge badge-warning&#34;&gt;super&lt;/span&gt;
     
 &lt;/span&gt;
- key. Regolith uses &lt;code&gt;Xresources&lt;/code&gt; as the canonical source of truth for settings, which are read by various UI components. The table of &lt;code&gt;Xresources&lt;/code&gt; keys open to user configuration &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/&#34;&gt;is available elsewhere&lt;/a&gt;. To change the default 
+ key. Regolith uses &lt;code&gt;Xresources&lt;/code&gt; as the canonical source of truth for settings, which are read by various UI components. The table of &lt;code&gt;Xresources&lt;/code&gt; keys open to user configuration &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/&#34;&gt;is available elsewhere&lt;/a&gt;. To change the default 
 
 &lt;span class=&#34;text-nowrap&#34;&gt;
     
@@ -729,7 +729,7 @@ $ regolith-look refresh
  binding from the &amp;ldquo;windows&amp;rdquo; key to &amp;ldquo;alt&amp;rdquo;, add the following line to the file &lt;code&gt;~/.config/regolith/Xresources&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;color:#000&#34;&gt;i3&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;wm&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;mod&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Mod1&lt;/span&gt;
 &lt;span style=&#34;color:#000&#34;&gt;i3&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;wm&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;alt&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Mod4&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To change other, more advanced keybindings, creating a user copy of the i3 config file is necessary. We call this process &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/&#34;&gt;&amp;ldquo;staging&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To change other, more advanced keybindings, creating a user copy of the i3 config file is necessary. We call this process &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/&#34;&gt;&amp;ldquo;staging&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: GNOME also has it&amp;rsquo;s own set of keybindings. When the Regolith session is first initialized, the conflicting GNOME keybindings are removed from the user settings. GNOME keybindings can be managed in the Settings app.&lt;/p&gt;
 
 
@@ -739,13 +739,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-008dc7fe9311514f8eb2cd51cc708f32032c4a03f2ed765bb99755a8058d58e1&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-keybindings_hu06bd9491b7709d195abba12b00660b2b_95425_636x0_resize_catmullrom_2.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-keybindings_hu06bd9491b7709d195abba12b00660b2b_95425_636x0_resize_catmullrom_2.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-008dc7fe9311514f8eb2cd51cc708f32032c4a03f2ed765bb99755a8058d58e1&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-keybindings.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-keybindings.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -775,7 +775,7 @@ $ regolith-look refresh
 &lt;/span&gt;
 .&lt;/p&gt;
 &lt;h2 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h2&gt;
-&lt;p&gt;To dig deeper check out the section on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/customize/&#34;&gt;Customization&lt;/a&gt;, find which &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/&#34;&gt;Howtos&lt;/a&gt; are available, or read the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/&#34;&gt;Xresources reference&lt;/a&gt;. Become an i3 power user by reading their &lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;user guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To dig deeper check out the section on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/customize/&#34;&gt;Customization&lt;/a&gt;, find which &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/&#34;&gt;Howtos&lt;/a&gt; are available, or read the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/&#34;&gt;Xresources reference&lt;/a&gt;. Become an i3 power user by reading their &lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;user guide&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regolith 1.5.2 – Documentation</title>
-    <link>https://regolith-linux.github.io/regolith-site-r151/docs/</link>
+    <link>https://regolith-linux.github.io/regolith-site-r152/docs/</link>
     <description>Recent content in Documentation on Regolith 1.5.2</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://regolith-linux.github.io/regolith-site-r151/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://regolith-linux.github.io/regolith-site-r152/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: 1.5.2 Release Notes</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.5.2-release-notes/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.5.2-release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.5.2-release-notes/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.5.2-release-notes/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Docs: Install</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/install/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/install/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/install/</guid>
       <description>
         
         
@@ -81,23 +81,23 @@
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-56e069dd238bc68efd12884c2b05f34156d88d7bab94a83ad379630b1b6add73&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-login_hu3f30a5eea54dd33b1a802fe102ff9462_28051_636x0_resize_catmullrom_2.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-login_hu3f30a5eea54dd33b1a802fe102ff9462_28051_636x0_resize_catmullrom_2.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-56e069dd238bc68efd12884c2b05f34156d88d7bab94a83ad379630b1b6add73&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-login.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-login.png&#34; alt=&#34;The Ubuntu login screen&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 
 
-&lt;p&gt;From this point, please proceed to the next section, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/docs/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; to learn about the most common changes people like to make to Regolith.&lt;/p&gt;
+&lt;p&gt;From this point, please proceed to the next section, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/docs/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; to learn about the most common changes people like to make to Regolith.&lt;/p&gt;
 &lt;h3 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h3&gt;
 &lt;h4 id=&#34;status-indicators-missing-after-upgrade&#34;&gt;Status indicators missing after Upgrade&lt;/h4&gt;
-&lt;p&gt;Regolith 1.4 changes the way in which blocks are installed and configured. This change is necessary to cleanly support the &lt;code&gt;arm64&lt;/code&gt; architecture and make it simple to swap out components like the notification subsystem. From 1.4 onward, blocks are installed by the package manager. See &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/&#34;&gt;this Howto&lt;/a&gt; on adding and configuring blocks.&lt;/p&gt;
+&lt;p&gt;Regolith 1.4 changes the way in which blocks are installed and configured. This change is necessary to cleanly support the &lt;code&gt;arm64&lt;/code&gt; architecture and make it simple to swap out components like the notification subsystem. From 1.4 onward, blocks are installed by the package manager. See &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/&#34;&gt;this Howto&lt;/a&gt; on adding and configuring blocks.&lt;/p&gt;
 &lt;h2 id=&#34;reinstallation&#34;&gt;Reinstallation&lt;/h2&gt;
 &lt;p&gt;In the case that the Regolith desktop environment becomes corrupted or otherwise unbootable, follow these steps to reset it. No user files will be removed as part of this process:&lt;/p&gt;
 &lt;ol&gt;
@@ -242,10 +242,10 @@ $ rm -Rf ~/.config/regolith/flags
     
     <item>
       <title>Docs: Keybindings</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/keybindings/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/keybindings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/keybindings/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/keybindings/</guid>
       <description>
         
         
@@ -461,10 +461,10 @@ $ rm -Rf ~/.config/regolith/flags
     
     <item>
       <title>Docs: Look</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/look/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/look/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/look/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/look/</guid>
       <description>
         
         
@@ -497,13 +497,13 @@ $ rm -Rf ~/.config/regolith/flags
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-57f7f2a306941a587c4ff7c1f7f14891ecb594254eb00e2574ed8ff142285db3&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-select-look_hu0072e1a729bbceaae2457311ea01b479_3045009_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-select-look_hu0072e1a729bbceaae2457311ea01b479_3045009_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-57f7f2a306941a587c4ff7c1f7f14891ecb594254eb00e2574ed8ff142285db3&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-select-look.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-select-look.png&#34; alt=&#34;Dialog to select a look&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -546,16 +546,16 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Looks</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/developer/looks/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/developer/looks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/developer/looks/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/developer/looks/</guid>
       <description>
         
         
         &lt;p&gt;Looks are a combination of &lt;code&gt;Xresources&lt;/code&gt; definitions and associated resources such as wallpapers, GTK themes, and icons that as a whole provide the user with a distinctive user interface, all expressed as a collection of files. The default looks that ship with Regolith are natural starting points for creating new ones, but it&amp;rsquo;s also possible to start from scratch as long as the required &lt;code&gt;Xresources&lt;/code&gt; entries are defined. Ideally, looks are packaged as Debian packages with all required resources either provided by the look or added as a package dependency. By using the OS packaging system, required files and resources are ensured to be installed and available.&lt;/p&gt;
 &lt;h2 id=&#34;required-files&#34;&gt;Required Files&lt;/h2&gt;
-&lt;p&gt;Starting from scratch, the only mandatory file for a Look as a single &lt;code&gt;Xresources&lt;/code&gt; definition file. This file must specify entries for Regolith&amp;rsquo;s required values, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/&#34;&gt;defined on this page&lt;/a&gt;. However, it&amp;rsquo;s recommended to simply copy an existing look as a basis for customization, due to the compositional nature that Looks use.&lt;/p&gt;
+&lt;p&gt;Starting from scratch, the only mandatory file for a Look as a single &lt;code&gt;Xresources&lt;/code&gt; definition file. This file must specify entries for Regolith&amp;rsquo;s required values, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/&#34;&gt;defined on this page&lt;/a&gt;. However, it&amp;rsquo;s recommended to simply copy an existing look as a basis for customization, due to the compositional nature that Looks use.&lt;/p&gt;
 &lt;h3 id=&#34;suggested-file-layout&#34;&gt;Suggested File Layout&lt;/h3&gt;
 &lt;p&gt;It is suggested that a look be installed in &lt;code&gt;/etc/regolith/styles/&amp;lt;look name&amp;gt;&lt;/code&gt; and that the primary (or only) &lt;code&gt;Xresources&lt;/code&gt; file is named &lt;code&gt;root&lt;/code&gt;. Existing Regolith Looks decompose the &lt;code&gt;Xresources&lt;/code&gt; into types of resources and any config specific to a UI component. For example the &amp;ldquo;Cahuella&amp;rdquo; Look provides definitions for GNOME (theme), color, and typeface and a specific theme for &amp;ldquo;Rofi&amp;rdquo; since it&amp;rsquo;s configuration cannot be completely expressed via &lt;code&gt;Xresources&lt;/code&gt; key/value pairs:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ find /etc/regolith/styles/cahuella -type f
@@ -565,7 +565,7 @@ $ regolith-look refresh
 /etc/regolith/styles/cahuella/root
 /etc/regolith/styles/cahuella/rofi.rasi
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;initialization&#34;&gt;Initialization&lt;/h2&gt;
-&lt;p&gt;When the Regolith session loads upon login, the initialization script looks &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/customize/styles/#loading-order&#34;&gt;in a few places&lt;/a&gt; for &lt;code&gt;Xresources&lt;/code&gt; file definitions. The &lt;code&gt;regolith-look&lt;/code&gt; tool provides the ability for users to change looks by creating an &lt;code&gt;Xresources&lt;/code&gt; file that simply redirects to another file via the &lt;code&gt;#include&lt;/code&gt; directive provided by the &lt;code&gt;Xresources&lt;/code&gt; subsystem. In this way, a Look is enabled in Regolith by providing this link between a well-known &lt;code&gt;Xresources&lt;/code&gt; file entry point to the files specific to the custom Look.&lt;/p&gt;
+&lt;p&gt;When the Regolith session loads upon login, the initialization script looks &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/customize/styles/#loading-order&#34;&gt;in a few places&lt;/a&gt; for &lt;code&gt;Xresources&lt;/code&gt; file definitions. The &lt;code&gt;regolith-look&lt;/code&gt; tool provides the ability for users to change looks by creating an &lt;code&gt;Xresources&lt;/code&gt; file that simply redirects to another file via the &lt;code&gt;#include&lt;/code&gt; directive provided by the &lt;code&gt;Xresources&lt;/code&gt; subsystem. In this way, a Look is enabled in Regolith by providing this link between a well-known &lt;code&gt;Xresources&lt;/code&gt; file entry point to the files specific to the custom Look.&lt;/p&gt;
 &lt;h2 id=&#34;packaging&#34;&gt;Packaging&lt;/h2&gt;
 &lt;p&gt;The ideal user experience is to install a look via a package manager tool and then using the &lt;code&gt;regolith-look&lt;/code&gt; tool to set it. For example:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ sudo apt install regolith-look-ubuntu
@@ -586,10 +586,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Privacy</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/privacy/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/privacy/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/privacy/</guid>
       <description>
         
         
@@ -600,14 +600,14 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Working with Applications</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/apps/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/apps/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/apps/</guid>
       <description>
         
         
-        &lt;p&gt;As mentioned in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/basics/&#34;&gt;Getting Started&lt;/a&gt; section, 
+        &lt;p&gt;As mentioned in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/basics/&#34;&gt;Getting Started&lt;/a&gt; section, 
 
 &lt;span class=&#34;text-nowrap&#34;&gt;
     
@@ -742,10 +742,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Config Files</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/configurations/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/configurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/configurations/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/configurations/</guid>
       <description>
         
         
@@ -821,10 +821,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Notifications</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/notifications/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/notifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/notifications/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/notifications/</guid>
       <description>
         
         
@@ -869,10 +869,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Packages</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/packages/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/packages/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/packages/</guid>
       <description>
         
         
@@ -986,10 +986,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Status Indicators</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/developer/status-indicators/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/developer/status-indicators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/developer/status-indicators/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/developer/status-indicators/</guid>
       <description>
         
         
@@ -1064,10 +1064,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Styles</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/styles/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/styles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/styles/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/styles/</guid>
       <description>
         
         
@@ -1105,15 +1105,15 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Updates</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/updates/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/updates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/updates/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/updates/</guid>
       <description>
         
         
         &lt;h2 id=&#34;configuration-files&#34;&gt;Configuration Files&lt;/h2&gt;
-&lt;p&gt;Regolith Linux is continually being updated with bug fixes and feature enhancements. Regolith&amp;rsquo;s default configuration files live in &lt;code&gt;/etc/regolith/&lt;/code&gt;. To customize these files, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/&#34;&gt;make copies in your user directory&lt;/a&gt; and make changes there. These copied files in the user directory are owned by the user and will not be modified by Regolith.&lt;/p&gt;
+&lt;p&gt;Regolith Linux is continually being updated with bug fixes and feature enhancements. Regolith&amp;rsquo;s default configuration files live in &lt;code&gt;/etc/regolith/&lt;/code&gt;. To customize these files, &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/&#34;&gt;make copies in your user directory&lt;/a&gt; and make changes there. These copied files in the user directory are owned by the user and will not be modified by Regolith.&lt;/p&gt;
 &lt;h2 id=&#34;package-updates&#34;&gt;Package Updates&lt;/h2&gt;
 &lt;p&gt;Notification of upcoming updates including those that may introduce breaking changes will be announced on the &lt;a href=&#34;https://www.freelists.org/list/regolith-linux&#34;&gt;Regolith Linux Announcements mailing list&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Once a package has been published to the &lt;code&gt;release&lt;/code&gt; PPA, Ubuntu&amp;rsquo;s built-in package update facility will find the update and either directly apply it or ask the user if they wish to do so, depending on configuration.&lt;/p&gt;
@@ -1128,10 +1128,10 @@ s&lt;/p&gt;
     
     <item>
       <title>Docs: Upgrading</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/upgrading/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/upgrading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/upgrading/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/upgrading/</guid>
       <description>
         
         
@@ -1151,7 +1151,7 @@ $ sudo apt update &amp;amp;&amp;amp; sudo apt dist-upgrade
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ mkdir ~/regolith-backup
 $ mv ~/.Xresources-regolith ~/regolith-backup
 $ mv ~/.config/regolith ~/regolith-backup
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once these steps are performed, logging back in should result in a &amp;ldquo;stock&amp;rdquo; instance of Regolith. From there, any changes desired to be reintegrated can be done by &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/&#34;&gt;staging&lt;/a&gt; and then editing the new versions of the Regolith config files that exist in the &lt;code&gt;/etc/regolith&lt;/code&gt; directory. Afterwards, it makes sense to apply your &lt;code&gt;Xresources&lt;/code&gt; definitions one-by-one to make sure they&amp;rsquo;re still valid and working as intended.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once these steps are performed, logging back in should result in a &amp;ldquo;stock&amp;rdquo; instance of Regolith. From there, any changes desired to be reintegrated can be done by &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/&#34;&gt;staging&lt;/a&gt; and then editing the new versions of the Regolith config files that exist in the &lt;code&gt;/etc/regolith&lt;/code&gt; directory. Afterwards, it makes sense to apply your &lt;code&gt;Xresources&lt;/code&gt; definitions one-by-one to make sure they&amp;rsquo;re still valid and working as intended.&lt;/p&gt;
 &lt;h3 id=&#34;edits-to-etcregolith-files&#34;&gt;Edits to &lt;code&gt;/etc/regolith/...&lt;/code&gt; files&lt;/h3&gt;
 &lt;p&gt;If you&amp;rsquo;ve taken shortcuts and manually edited files owned by &lt;code&gt;root&lt;/code&gt; in &lt;code&gt;/etc/regolith&lt;/code&gt; or elsewhere, the packaging tool may not update the files, nor mention that stale files have been left. Even removing the package via &lt;code&gt;apt remove ...&lt;/code&gt; may not result in a clean system. In this case, use the purge command to remove the package and manually delete any left over files. For example, to clean up the i3 config file:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;$ sudo apt purge regolith-i3-gaps-config
@@ -1184,10 +1184,10 @@ $ sudo apt install regolith-i3-gaps-config
     
     <item>
       <title>Docs: Basic Usage</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/basics/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/basics/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/basics/</guid>
       <description>
         
         
@@ -1294,13 +1294,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-aff65ef620617c546a5c7e277d907dd7f1758160a95f6ac15445ab9eba1b2b21&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/screenshot-launcher_hu0072e1a729bbceaae2457311ea01b479_3074312_636x0_resize_catmullrom_2.png&#34; alt=&#34;Launch an application&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/screenshot-launcher_hu0072e1a729bbceaae2457311ea01b479_3074312_636x0_resize_catmullrom_2.png&#34; alt=&#34;Launch an application&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-aff65ef620617c546a5c7e277d907dd7f1758160a95f6ac15445ab9eba1b2b21&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/screenshot-launcher.png&#34; alt=&#34;Launch an application&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/screenshot-launcher.png&#34; alt=&#34;Launch an application&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -1328,13 +1328,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-3a44e5b8bbd2f0808f3de48ea5d8055abadda6d807e7fc8fe9151e7389fdc92d&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-window-nav2_hu49064f74a175883fd99b9390ff072bfd_1499384_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-window-nav2_hu49064f74a175883fd99b9390ff072bfd_1499384_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-3a44e5b8bbd2f0808f3de48ea5d8055abadda6d807e7fc8fe9151e7389fdc92d&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-window-nav2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-window-nav2.png&#34; alt=&#34;Dialog for moving to another open window&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -1391,13 +1391,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-57ec2c0ee5cc742edb40e5e676cb8233f66b7c482d553c6e2daf84b63d1b5d6d&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-file-search_hu49064f74a175883fd99b9390ff072bfd_1541121_636x0_resize_catmullrom_2.png&#34; alt=&#34;Open file dialog&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-file-search_hu49064f74a175883fd99b9390ff072bfd_1541121_636x0_resize_catmullrom_2.png&#34; alt=&#34;Open file dialog&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-57ec2c0ee5cc742edb40e5e676cb8233f66b7c482d553c6e2daf84b63d1b5d6d&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-file-search.png&#34; alt=&#34;Open file dialog&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-file-search.png&#34; alt=&#34;Open file dialog&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -1501,13 +1501,13 @@ $ sudo apt install regolith-i3-gaps-config
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-c5d25f96c93b2830b2ce37a7c1a1f3ae2ab29acc321d3e9d9e1cf0de94596f2d&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-control-panel_hubbbd57e1be5e3f1d99b9ecd8a856bc43_79759_636x0_resize_catmullrom_2.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-control-panel_hubbbd57e1be5e3f1d99b9ecd8a856bc43_79759_636x0_resize_catmullrom_2.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-c5d25f96c93b2830b2ce37a7c1a1f3ae2ab29acc321d3e9d9e1cf0de94596f2d&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-control-panel.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-control-panel.png&#34; alt=&#34;The GNOME settings app&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -1540,10 +1540,10 @@ $ sudo apt install regolith-i3-gaps-config
     
     <item>
       <title>Docs: Compositors</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/compositors/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/compositors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/compositors/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/compositors/</guid>
       <description>
         
         
@@ -1613,10 +1613,10 @@ $ sudo apt install regolith-i3-gaps-config
     
     <item>
       <title>Docs: Contribute</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/contributions/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/contributions/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/contributions/</guid>
       <description>
         
         
@@ -1626,7 +1626,7 @@ $ sudo apt install regolith-i3-gaps-config
 &lt;h2 id=&#34;join-our-slack-channel&#34;&gt;Join our Slack channel&lt;/h2&gt;
 &lt;p&gt;Click &lt;a href=&#34;https://regolith-linux.herokuapp.com/&#34;&gt;this link&lt;/a&gt; to join our Slack channel, which allows you to communicate with the developers of Regolith and other users. Here is where we brainstorm about new features, ways to improve current features, and fix bugs.&lt;/p&gt;
 &lt;h2 id=&#34;testing-fixes-and-features&#34;&gt;Testing Fixes and Features&lt;/h2&gt;
-&lt;p&gt;When bugs are reported by users, we try to have them verify the fix before enabling the update for everyone. Switching to the &lt;code&gt;unstable&lt;/code&gt; PPA is necessary for Ubuntu to see that a new version of a package is available for testing a new fix or feature. Once the update has been verified to resolve the problem and not cause any other bugs, it is promoted to the &lt;code&gt;stable&lt;/code&gt; PPA for general consumption by Regolith users. We have &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/updates/#package-promotion&#34;&gt;a separate section&lt;/a&gt; which explains the process of package promotion in more detail, and &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-ppa/&#34;&gt;a section&lt;/a&gt; about switching between PPAs to test changes.&lt;/p&gt;
+&lt;p&gt;When bugs are reported by users, we try to have them verify the fix before enabling the update for everyone. Switching to the &lt;code&gt;unstable&lt;/code&gt; PPA is necessary for Ubuntu to see that a new version of a package is available for testing a new fix or feature. Once the update has been verified to resolve the problem and not cause any other bugs, it is promoted to the &lt;code&gt;stable&lt;/code&gt; PPA for general consumption by Regolith users. We have &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/updates/#package-promotion&#34;&gt;a separate section&lt;/a&gt; which explains the process of package promotion in more detail, and &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-ppa/&#34;&gt;a section&lt;/a&gt; about switching between PPAs to test changes.&lt;/p&gt;
 &lt;h2 id=&#34;switching-between-ppas&#34;&gt;Switching between PPAs&lt;/h2&gt;
 &lt;p&gt;When bugs are reported by users, we try to have them verify the fix before enabling the update for everyone. Switching to the &lt;code&gt;unstable&lt;/code&gt; PPA is necessary for testing a new fix or feature before it becomes available to the general population via an automatic update. See this section for more details on package promotion.&lt;/p&gt;
 &lt;h2 id=&#34;official-regolith-contributors&#34;&gt;Official Regolith Contributors&lt;/h2&gt;
@@ -1646,10 +1646,10 @@ $ sudo apt install regolith-i3-gaps-config
     
     <item>
       <title>Docs: Packaging</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/developer/packaging/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/developer/packaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/developer/packaging/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/developer/packaging/</guid>
       <description>
         
         
@@ -1733,10 +1733,10 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
     
     <item>
       <title>Docs: Support</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/support/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/support/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/support/</guid>
       <description>
         
         
@@ -1747,10 +1747,10 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
     
     <item>
       <title>Docs: System Configuration</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/system/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/system/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/system/</guid>
       <description>
         
         
@@ -1772,14 +1772,14 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
 
 
 &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
-&lt;p&gt;Maintaining a user copy of the i3 config file requires more work when upgrading Regolith, as changes have to managed from the defaults into the user config to support new features in subsequent versions. If possible, it is better to rely on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/override-xres/&#34;&gt;&lt;code&gt;Xresources&lt;/code&gt; overrides&lt;/a&gt; to customize i3.&lt;/p&gt;
+&lt;p&gt;Maintaining a user copy of the i3 config file requires more work when upgrading Regolith, as changes have to managed from the defaults into the user config to support new features in subsequent versions. If possible, it is better to rely on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/override-xres/&#34;&gt;&lt;code&gt;Xresources&lt;/code&gt; overrides&lt;/a&gt; to customize i3.&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;h2 id=&#34;i3bar&#34;&gt;i3bar&lt;/h2&gt;
-&lt;p&gt;The i3bar configuration is defined in the i3 config file listed directly above, but the i3bar has it&amp;rsquo;s own configuration for status items. To change which information is displayed in the bar, the config directory is &lt;code&gt;/etc/regolith/i3xrocks/conf.d&lt;/code&gt;. There is one file in this directory for every status item, plus &lt;code&gt;01_setup&lt;/code&gt;. The prefixed number defines the order in which the blocks are displayed on the bar. We maintain a &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/&#34;&gt;separate documentation&lt;/a&gt; on how to customize and switch around the indicators on the bar.&lt;/p&gt;
+&lt;p&gt;The i3bar configuration is defined in the i3 config file listed directly above, but the i3bar has it&amp;rsquo;s own configuration for status items. To change which information is displayed in the bar, the config directory is &lt;code&gt;/etc/regolith/i3xrocks/conf.d&lt;/code&gt;. There is one file in this directory for every status item, plus &lt;code&gt;01_setup&lt;/code&gt;. The prefixed number defines the order in which the blocks are displayed on the bar. We maintain a &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/&#34;&gt;separate documentation&lt;/a&gt; on how to customize and switch around the indicators on the bar.&lt;/p&gt;
 &lt;h2 id=&#34;look&#34;&gt;Look&lt;/h2&gt;
-&lt;p&gt;The look of Regolith is configured via &lt;code&gt;Xresources&lt;/code&gt;, that live in &lt;code&gt;/etc/regolith/styles/&lt;/code&gt;. This topic is covered in detail in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/customize/&#34;&gt;Customize&lt;/a&gt; section of the documentation.&lt;/p&gt;
+&lt;p&gt;The look of Regolith is configured via &lt;code&gt;Xresources&lt;/code&gt;, that live in &lt;code&gt;/etc/regolith/styles/&lt;/code&gt;. This topic is covered in detail in the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/customize/&#34;&gt;Customize&lt;/a&gt; section of the documentation.&lt;/p&gt;
 &lt;h2 id=&#34;session&#34;&gt;Session&lt;/h2&gt;
 &lt;p&gt;When Regolith is initially loaded, a script is run that configures the system and launches &lt;code&gt;i3-wm&lt;/code&gt;. While it is not recommended to modify this script, it can provide details about how Regolith is structured and what policy it implements when loading configuration. This file is readable at &lt;code&gt;/usr/bin/i3-gnome-flashback&lt;/code&gt;. In fact, this script could be considered the initial seed of the Regolith project and was taken from the &lt;a href=&#34;https://github.com/deuill/i3-gnome-flashback&#34;&gt;i3-gnome-flashback&lt;/a&gt; project.&lt;/p&gt;
 
@@ -1788,10 +1788,10 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
     
     <item>
       <title>Docs: Advanced</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/interface/advanced/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/interface/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/interface/advanced/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/interface/advanced/</guid>
       <description>
         
         
@@ -1852,10 +1852,10 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
     
     <item>
       <title>Docs: Components</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/components/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/components/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/components/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/components/</guid>
       <description>
         
         
@@ -1928,10 +1928,10 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
     
     <item>
       <title>Docs: Configuration</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/configuration/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/configuration/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/configuration/</guid>
       <description>
         
         
@@ -1954,13 +1954,13 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-8e1ee02f706a7f2858d81b91ba8297bf825222be1d3e0bd054afe9acc176d93a&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-wallpaper_hude4d72a4270911ee6adb739aa00de421_242021_636x0_resize_catmullrom_2.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-wallpaper_hude4d72a4270911ee6adb739aa00de421_242021_636x0_resize_catmullrom_2.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-8e1ee02f706a7f2858d81b91ba8297bf825222be1d3e0bd054afe9acc176d93a&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-wallpaper.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-wallpaper.png&#34; alt=&#34;The background selection in the Settings app&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -1968,9 +1968,9 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
 
 
 &lt;p&gt;Wallpaper can also be set via &lt;a href=&#34;https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory&#34;&gt;dotfiles&lt;/a&gt; for those that prefer file-based configuration management over GSettings.&lt;/p&gt;
-&lt;p&gt;Regardless of which style you prefer, you can refer to the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/configure-wallpaper/&#34;&gt;more extensive documentation&lt;/a&gt; for additional details.&lt;/p&gt;
+&lt;p&gt;Regardless of which style you prefer, you can refer to the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/configure-wallpaper/&#34;&gt;more extensive documentation&lt;/a&gt; for additional details.&lt;/p&gt;
 &lt;h2 id=&#34;status-bar-indicators&#34;&gt;Status Bar Indicators&lt;/h2&gt;
-&lt;p&gt;Status indicators such as CPU load, date and time, notifications, weather, and other system info can be added or removed by installing packages. For example, to show a status indicator for your laptop battery, simply run &lt;code&gt;sudo apt install i3xrocks-battery&lt;/code&gt; and then refresh the session using &lt;code&gt;regolith-look refresh&lt;/code&gt;. To find what indicators are available, run &lt;code&gt;apt search ^i3xrocks-&lt;/code&gt; or search for &lt;code&gt;i3xrocks-&lt;/code&gt; in your favorite package manager GUI, such as &lt;a href=&#34;https://help.ubuntu.com/community/SynapticHowto&#34;&gt;Synaptic&lt;/a&gt;. There is &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/&#34;&gt;more documentation available&lt;/a&gt; for configuring status indicators, also called &amp;ldquo;blocklets&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Status indicators such as CPU load, date and time, notifications, weather, and other system info can be added or removed by installing packages. For example, to show a status indicator for your laptop battery, simply run &lt;code&gt;sudo apt install i3xrocks-battery&lt;/code&gt; and then refresh the session using &lt;code&gt;regolith-look refresh&lt;/code&gt;. To find what indicators are available, run &lt;code&gt;apt search ^i3xrocks-&lt;/code&gt; or search for &lt;code&gt;i3xrocks-&lt;/code&gt; in your favorite package manager GUI, such as &lt;a href=&#34;https://help.ubuntu.com/community/SynapticHowto&#34;&gt;Synaptic&lt;/a&gt;. There is &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/&#34;&gt;more documentation available&lt;/a&gt; for configuring status indicators, also called &amp;ldquo;blocklets&amp;rdquo;.&lt;/p&gt;
 
 
 
@@ -1979,13 +1979,13 @@ $ ./build.sh package-model-R1.4.2.json ppa:regolith-linux/ubuntu/unstable /tmp r
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-327a209420d3a973bfd1f5ac7a5f9bda7606178e07cb3a622f21ed49498be2ca&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-synaptic-search_hu735fcbfc12996ac525b16b6e3adcb219_75557_636x0_resize_catmullrom_2.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-synaptic-search_hu735fcbfc12996ac525b16b6e3adcb219_75557_636x0_resize_catmullrom_2.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-327a209420d3a973bfd1f5ac7a5f9bda7606178e07cb3a622f21ed49498be2ca&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-synaptic-search.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-synaptic-search.png&#34; alt=&#34;Searching for blocklets in Synaptics&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -2021,7 +2021,7 @@ $ regolith-look refresh
     &lt;span class=&#34;badge badge-warning&#34;&gt;super&lt;/span&gt;
     
 &lt;/span&gt;
- key. Regolith uses &lt;code&gt;Xresources&lt;/code&gt; as the canonical source of truth for settings, which are read by various UI components. The table of &lt;code&gt;Xresources&lt;/code&gt; keys open to user configuration &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/&#34;&gt;is available elsewhere&lt;/a&gt;. To change the default 
+ key. Regolith uses &lt;code&gt;Xresources&lt;/code&gt; as the canonical source of truth for settings, which are read by various UI components. The table of &lt;code&gt;Xresources&lt;/code&gt; keys open to user configuration &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/&#34;&gt;is available elsewhere&lt;/a&gt;. To change the default 
 
 &lt;span class=&#34;text-nowrap&#34;&gt;
     
@@ -2031,7 +2031,7 @@ $ regolith-look refresh
  binding from the &amp;ldquo;windows&amp;rdquo; key to &amp;ldquo;alt&amp;rdquo;, add the following line to the file &lt;code&gt;~/.config/regolith/Xresources&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;color:#000&#34;&gt;i3&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;wm&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;mod&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Mod1&lt;/span&gt;
 &lt;span style=&#34;color:#000&#34;&gt;i3&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;wm&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;alt&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Mod4&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To change other, more advanced keybindings, creating a user copy of the i3 config file is necessary. We call this process &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/&#34;&gt;&amp;ldquo;staging&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To change other, more advanced keybindings, creating a user copy of the i3 config file is necessary. We call this process &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/&#34;&gt;&amp;ldquo;staging&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: GNOME also has it&amp;rsquo;s own set of keybindings. When the Regolith session is first initialized, the conflicting GNOME keybindings are removed from the user settings. GNOME keybindings can be managed in the Settings app.&lt;/p&gt;
 
 
@@ -2041,13 +2041,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-008dc7fe9311514f8eb2cd51cc708f32032c4a03f2ed765bb99755a8058d58e1&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-keybindings_hu06bd9491b7709d195abba12b00660b2b_95425_636x0_resize_catmullrom_2.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-keybindings_hu06bd9491b7709d195abba12b00660b2b_95425_636x0_resize_catmullrom_2.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-008dc7fe9311514f8eb2cd51cc708f32032c4a03f2ed765bb99755a8058d58e1&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-keybindings.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-keybindings.png&#34; alt=&#34;GNOME keybindings in the settings dialog&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -2077,17 +2077,17 @@ $ regolith-look refresh
 &lt;/span&gt;
 .&lt;/p&gt;
 &lt;h2 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h2&gt;
-&lt;p&gt;To dig deeper check out the section on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/customize/&#34;&gt;Customization&lt;/a&gt;, find which &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/&#34;&gt;Howtos&lt;/a&gt; are available, or read the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/&#34;&gt;Xresources reference&lt;/a&gt;. Become an i3 power user by reading their &lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;user guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To dig deeper check out the section on &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/customize/&#34;&gt;Customization&lt;/a&gt;, find which &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/&#34;&gt;Howtos&lt;/a&gt; are available, or read the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/&#34;&gt;Xresources reference&lt;/a&gt;. Become an i3 power user by reading their &lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;user guide&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Design</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/developer/design/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/developer/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/developer/design/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/developer/design/</guid>
       <description>
         
         
@@ -2104,10 +2104,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Packages</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/customize/packages/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/customize/packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/customize/packages/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/customize/packages/</guid>
       <description>
         
         
@@ -2120,13 +2120,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-39f8432e7d7157398241bcffdbe3f54a4893cf07e94be9fe30b9c98da004d835&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-desktop-graph-l2_hub6baaa44380ccf9476b4080d1068a811_293017_636x0_resize_catmullrom_2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-desktop-graph-l2_hub6baaa44380ccf9476b4080d1068a811_293017_636x0_resize_catmullrom_2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-39f8432e7d7157398241bcffdbe3f54a4893cf07e94be9fe30b9c98da004d835&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-desktop-graph-l2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-desktop-graph-l2.png&#34; alt=&#34;Package Dependency Graph&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -2179,17 +2179,17 @@ $ regolith-look refresh
 &lt;/ul&gt;
 &lt;p&gt;Of course, any of these packages can be re-added by the user after installation using a variety of tools including the app store.&lt;/p&gt;
 &lt;h3 id=&#34;regolith-13&#34;&gt;Regolith 1.3&lt;/h3&gt;
-&lt;p&gt;For the 1.3 release of Regolith, changes from baseline Ubuntu are &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.3-release-notes/#iso-generation&#34;&gt;documented here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the 1.3 release of Regolith, changes from baseline Ubuntu are &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.3-release-notes/#iso-generation&#34;&gt;documented here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Development</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/development/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/development/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/development/</guid>
       <description>
         
         
@@ -2326,10 +2326,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: Xresources</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/</guid>
       <description>
         
         
@@ -3010,10 +3010,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: 1.5.1 Release Notes</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.5.1-release-notes/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.5.1-release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.5.1-release-notes/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.5.1-release-notes/</guid>
       <description>
         
         
@@ -3105,10 +3105,10 @@ $ regolith-look refresh
     
     <item>
       <title>Docs: 1.5 Release Notes</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.5-release-notes/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.5-release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.5-release-notes/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.5-release-notes/</guid>
       <description>
         
         
@@ -3158,13 +3158,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-13671fee29297441c17bf21d5f32693a19e95c2704009cee97fd125878420976&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-select-look_hu0072e1a729bbceaae2457311ea01b479_3045009_636x0_resize_catmullrom_2.png&#34; alt=&#34;Select Rofi look&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-select-look_hu0072e1a729bbceaae2457311ea01b479_3045009_636x0_resize_catmullrom_2.png&#34; alt=&#34;Select Rofi look&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-13671fee29297441c17bf21d5f32693a19e95c2704009cee97fd125878420976&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-select-look.png&#34; alt=&#34;Select Rofi look&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-select-look.png&#34; alt=&#34;Select Rofi look&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -3199,13 +3199,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-bad5bacac409aa7d53dd3f6f7b4a6c3643aaf8723c9baf9eccd9a0eeba0ca01f&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-dracula_hu0072e1a729bbceaae2457311ea01b479_1862097_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dracula Look&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-dracula_hu0072e1a729bbceaae2457311ea01b479_1862097_636x0_resize_catmullrom_2.png&#34; alt=&#34;Dracula Look&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-bad5bacac409aa7d53dd3f6f7b4a6c3643aaf8723c9baf9eccd9a0eeba0ca01f&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-dracula.png&#34; alt=&#34;Dracula Look&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-dracula.png&#34; alt=&#34;Dracula Look&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -3219,13 +3219,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-264e717129a56bd14a207586407df7bd41fd5fcd8ceb56442406a111cc36e3f0&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-gruvbox_hu526728ec3664d29dd88c0cb3b8b3f2cb_614864_636x0_resize_catmullrom_2.png&#34; alt=&#34;Gruvbox Look&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-gruvbox_hu526728ec3664d29dd88c0cb3b8b3f2cb_614864_636x0_resize_catmullrom_2.png&#34; alt=&#34;Gruvbox Look&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-264e717129a56bd14a207586407df7bd41fd5fcd8ceb56442406a111cc36e3f0&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-gruvbox.png&#34; alt=&#34;Gruvbox Look&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-gruvbox.png&#34; alt=&#34;Gruvbox Look&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -3239,13 +3239,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-63b0d4a2254d2119740994076ac5744c009481e75ce5b0a15c96d39b42b8c49b&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-pop-os_hu4259dec701455e26409dd25c20fd8416_242076_636x0_resize_catmullrom_2.png&#34; alt=&#34;PopOs Look&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-pop-os_hu4259dec701455e26409dd25c20fd8416_242076_636x0_resize_catmullrom_2.png&#34; alt=&#34;PopOs Look&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-63b0d4a2254d2119740994076ac5744c009481e75ce5b0a15c96d39b42b8c49b&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-pop-os.png&#34; alt=&#34;PopOs Look&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-pop-os.png&#34; alt=&#34;PopOs Look&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -3289,13 +3289,13 @@ $ regolith-look refresh
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-b940cd382ca1a9d19dbf826206d32463eea7eab6419f9161b80b965910fa99db&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-td_hu814e1eb5779ec0c72ff45922fbcf31cc_879448_636x0_resize_catmullrom_2.png&#34; alt=&#34;td-cli&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-td_hu814e1eb5779ec0c72ff45922fbcf31cc_879448_636x0_resize_catmullrom_2.png&#34; alt=&#34;td-cli&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-b940cd382ca1a9d19dbf826206d32463eea7eab6419f9161b80b965910fa99db&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-td.png&#34; alt=&#34;td-cli&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-td.png&#34; alt=&#34;td-cli&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -3307,7 +3307,7 @@ $ regolith-look refresh
 &lt;tr&gt;
 &lt;td&gt;Documentation of development process&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;The &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/policy-and-process/development/&#34;&gt;Regolith development process&lt;/a&gt; is now better documented for greater transparency and to foster inclusion.&lt;/td&gt;
+&lt;td&gt;The &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/policy-and-process/development/&#34;&gt;Regolith development process&lt;/a&gt; is now better documented for greater transparency and to foster inclusion.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -4167,24 +4167,24 @@ xrescat (1.2.0-1) bionic; urgency=medium
     
     <item>
       <title>Docs: 1.4.1 Release Notes</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.4.1-release-notes/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.4.1-release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.4.1-release-notes/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.4.1-release-notes/</guid>
       <description>
         
         
-        &lt;p&gt;Regolith R1.4.1 is a fast follow up to 1.4 that fixes a few serious bugs, &lt;a href=&#34;https://www.freelists.org/post/regolith-linux/Package-Updates-to-Release&#34;&gt;detailed on the mailing list&lt;/a&gt;. In addition to the package updates, a new boot animation is provided by the package &lt;code&gt;plymouth-theme-regolith&lt;/code&gt; that is installed by default on the ISO. The ISO also now excludes a deprecated &lt;code&gt;touchpad&lt;/code&gt; driver that was conflicting with Settings. Existing PPA-based installations can simply get the updates via their typical package update process. Regolith Linux ISO users can update to R1.4.1 by applying regular package updates and then follow &lt;a href=&#34;.https://regolith-linux.github.io/regolith-site-r151/docs/howtos/update-14-141/&#34;&gt;the upgrade guide&lt;/a&gt; to perform some manual steps if they have touchpad issues or use encrypted root file systems.&lt;/p&gt;
+        &lt;p&gt;Regolith R1.4.1 is a fast follow up to 1.4 that fixes a few serious bugs, &lt;a href=&#34;https://www.freelists.org/post/regolith-linux/Package-Updates-to-Release&#34;&gt;detailed on the mailing list&lt;/a&gt;. In addition to the package updates, a new boot animation is provided by the package &lt;code&gt;plymouth-theme-regolith&lt;/code&gt; that is installed by default on the ISO. The ISO also now excludes a deprecated &lt;code&gt;touchpad&lt;/code&gt; driver that was conflicting with Settings. Existing PPA-based installations can simply get the updates via their typical package update process. Regolith Linux ISO users can update to R1.4.1 by applying regular package updates and then follow &lt;a href=&#34;.https://regolith-linux.github.io/regolith-site-r152/docs/howtos/update-14-141/&#34;&gt;the upgrade guide&lt;/a&gt; to perform some manual steps if they have touchpad issues or use encrypted root file systems.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: 1.4 Release Notes</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.4-release-notes/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.4-release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.4-release-notes/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.4-release-notes/</guid>
       <description>
         
         
@@ -4218,7 +4218,7 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 
-&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-remontoire-screenshot-131.png&#34; alt=&#34;New Remontoire release&#34; /&gt;
+&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-remontoire-screenshot-131.png&#34; alt=&#34;New Remontoire release&#34; /&gt;
 
 &lt;/td&gt;
 &lt;td&gt;- Can render keybindings from i3 over socket or from any file. &lt;br&gt; - Can be configured to display on any screen edge. &lt;br&gt; - Visual updates and bug fixes. &lt;br&gt; - Presentation changeable via CSS.&lt;/td&gt;
@@ -4233,13 +4233,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-4cf41c933262453b5125acba54e21aa404a6af270e747f3bb2fa62ddbbfb7466&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-lascaille_hu0072e1a729bbceaae2457311ea01b479_1644882_636x0_resize_catmullrom_2.png&#34; alt=&#34;New default look&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-lascaille_hu0072e1a729bbceaae2457311ea01b479_1644882_636x0_resize_catmullrom_2.png&#34; alt=&#34;New default look&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-4cf41c933262453b5125acba54e21aa404a6af270e747f3bb2fa62ddbbfb7466&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-lascaille.png&#34; alt=&#34;New default look&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-lascaille.png&#34; alt=&#34;New default look&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4258,13 +4258,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-ecfcb44dc30f8b648b590a2d7d93ea202d761fb4fc8e90ddba99b78066d3d9ef&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-file-search_hu49064f74a175883fd99b9390ff072bfd_1543740_636x0_resize_catmullrom_2.png&#34; alt=&#34;New file search dialog&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-file-search_hu49064f74a175883fd99b9390ff072bfd_1543740_636x0_resize_catmullrom_2.png&#34; alt=&#34;New file search dialog&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-ecfcb44dc30f8b648b590a2d7d93ea202d761fb4fc8e90ddba99b78066d3d9ef&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-file-search.png&#34; alt=&#34;New file search dialog&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-file-search.png&#34; alt=&#34;New file search dialog&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4303,13 +4303,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-9cba820f34169d9fd0be642b530f2913bb9e52ac15f668dec72d5618b34ec0f0&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-focal_hu907d4f7412273c1425be06a67cf45ba2_2779463_636x0_resize_catmullrom_2.png&#34; alt=&#34;New Ubuntu release&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-focal_hu907d4f7412273c1425be06a67cf45ba2_2779463_636x0_resize_catmullrom_2.png&#34; alt=&#34;New Ubuntu release&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-9cba820f34169d9fd0be642b530f2913bb9e52ac15f668dec72d5618b34ec0f0&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-focal.png&#34; alt=&#34;New Ubuntu release&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-focal.png&#34; alt=&#34;New Ubuntu release&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4338,13 +4338,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-8181dc7a66359f1b4c88ab6dce4341758c36fd183ee5119c4de6bea4fd0b8951&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-gnome-terminal_hu8222d6a25e2a39f1add1380c54c5dfca_76566_636x0_resize_catmullrom_2.png&#34; alt=&#34;GNOME Terminal replaces st-term&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-gnome-terminal_hu8222d6a25e2a39f1add1380c54c5dfca_76566_636x0_resize_catmullrom_2.png&#34; alt=&#34;GNOME Terminal replaces st-term&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-8181dc7a66359f1b4c88ab6dce4341758c36fd183ee5119c4de6bea4fd0b8951&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-gnome-terminal.png&#34; alt=&#34;GNOME Terminal replaces st-term&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-gnome-terminal.png&#34; alt=&#34;GNOME Terminal replaces st-term&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4400,10 +4400,10 @@ xrescat (1.2.0-1) bionic; urgency=medium
     
     <item>
       <title>Docs: 1.3.1 Release Notes</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.3.1-release-notes/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.3.1-release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.3.1-release-notes/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.3.1-release-notes/</guid>
       <description>
         
         
@@ -4434,7 +4434,7 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 
-&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-remontoire-screenshot.png&#34; alt=&#34;New Remontoire release&#34; /&gt;
+&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-remontoire-screenshot.png&#34; alt=&#34;New Remontoire release&#34; /&gt;
 
 &lt;/td&gt;
 &lt;td&gt;Provides a live view of active i3 keybindings, introduces a machine-readable comment format for i3 config files, and fixes several layout and presentation bugs reported by users.&lt;/td&gt;
@@ -4449,13 +4449,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-4efd2b56e1fd52433dd90c3052396fad7b0aaa3cd04be0c559c1af0751b5993a&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-ayu-mirage_hu18be4cd490dbc78d5246dec5e3f964db_640127_636x0_resize_catmullrom_2.png&#34; alt=&#34;New theme&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-ayu-mirage_hu18be4cd490dbc78d5246dec5e3f964db_640127_636x0_resize_catmullrom_2.png&#34; alt=&#34;New theme&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-4efd2b56e1fd52433dd90c3052396fad7b0aaa3cd04be0c559c1af0751b5993a&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-ayu-mirage.png&#34; alt=&#34;New theme&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-ayu-mirage.png&#34; alt=&#34;New theme&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4474,13 +4474,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-ac475a38ec090c08f2c81f93583972de3697e8910dc6db82da75741029b6d982&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-rofi-window_hu51cb2e7e0899ac1ea2304f1210257c39_91228_636x0_resize_catmullrom_2.png&#34; alt=&#34;Rofi polishing&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-rofi-window_hu51cb2e7e0899ac1ea2304f1210257c39_91228_636x0_resize_catmullrom_2.png&#34; alt=&#34;Rofi polishing&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-ac475a38ec090c08f2c81f93583972de3697e8910dc6db82da75741029b6d982&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-rofi-window.png&#34; alt=&#34;Rofi polishing&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-rofi-window.png&#34; alt=&#34;Rofi polishing&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4519,13 +4519,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-3eb8c5478848d5a42baa243a9d3a7f14b9ebbc34d6a8afc66c8a7a191f1d049a&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/nord-dark_hub85463ee25fd1a6e8ea0536e25348fb4_66748_636x0_resize_catmullrom_2.png&#34; alt=&#34;Nord Dark theme&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/nord-dark_hub85463ee25fd1a6e8ea0536e25348fb4_66748_636x0_resize_catmullrom_2.png&#34; alt=&#34;Nord Dark theme&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-3eb8c5478848d5a42baa243a9d3a7f14b9ebbc34d6a8afc66c8a7a191f1d049a&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/nord-dark.png&#34; alt=&#34;Nord Dark theme&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/nord-dark.png&#34; alt=&#34;Nord Dark theme&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4548,10 +4548,10 @@ xrescat (1.2.0-1) bionic; urgency=medium
     
     <item>
       <title>Docs: 1.3 Release Notes</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.3-release-notes/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.3-release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/reference/releases/regolith-1.3-release-notes/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/reference/releases/regolith-1.3-release-notes/</guid>
       <description>
         
         
@@ -4576,13 +4576,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-d6019abc6f9a146b7d35cccb14b67cbd9546b1431b3432cfdb960428ea5e6084&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-widgets_hu05dff850419e0212744ff9d52a937efb_127414_636x0_resize_catmullrom_2.png&#34; alt=&#34;New GTK theme&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-widgets_hu05dff850419e0212744ff9d52a937efb_127414_636x0_resize_catmullrom_2.png&#34; alt=&#34;New GTK theme&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-d6019abc6f9a146b7d35cccb14b67cbd9546b1431b3432cfdb960428ea5e6084&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-widgets.png&#34; alt=&#34;New GTK theme&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-widgets.png&#34; alt=&#34;New GTK theme&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4600,7 +4600,7 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 
-&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-remontoire.png&#34; alt=&#34;Keybindings dialog&#34; /&gt;
+&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-remontoire.png&#34; alt=&#34;Keybindings dialog&#34; /&gt;
 
 &lt;/td&gt;
 &lt;td&gt;To allow for a more consistent look and collapsible content for various monitor dimensions, a custom shortcut dialog was developed called Remontoire.&lt;/td&gt;
@@ -4625,13 +4625,13 @@ xrescat (1.2.0-1) bionic; urgency=medium
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-ea469f89da0243f904d4a2a1b81fceaaaa4681b6b22462bc17a59be30677d51c&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-rofi_hu49c23a53ee5e402f4358f7d70e61d4c7_67050_636x0_resize_catmullrom_2.png&#34; alt=&#34;New Rofi theme&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-rofi_hu49c23a53ee5e402f4358f7d70e61d4c7_67050_636x0_resize_catmullrom_2.png&#34; alt=&#34;New Rofi theme&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-ea469f89da0243f904d4a2a1b81fceaaaa4681b6b22462bc17a59be30677d51c&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/releases/regolith-screenshot-rofi.png&#34; alt=&#34;New Rofi theme&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/releases/regolith-screenshot-rofi.png&#34; alt=&#34;New Rofi theme&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4697,10 +4697,10 @@ $ cp /usr/share/backgrounds/lucas-bellator-C0OD8OM-oM0-unsplash.jpg /usr/share/b
     
     <item>
       <title>Docs: Assign a workspace to a specific Output (Display)</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/workspace-on-output/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/workspace-on-output/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/workspace-on-output/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/workspace-on-output/</guid>
       <description>
         
         
@@ -4708,7 +4708,7 @@ $ cp /usr/share/backgrounds/lucas-bellator-C0OD8OM-oM0-unsplash.jpg /usr/share/b
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ xrandr --listmonitors
 Monitors: 1
  0: +*eDP-1 1920/309x1080/173+0+0  eDP-1
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In this case, the output name is &lt;code&gt;eDP-1&lt;/code&gt;. Next add a line like this into &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/&#34;&gt;a staged copy of your i3 config file&lt;/a&gt;:&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In this case, the output name is &lt;code&gt;eDP-1&lt;/code&gt;. Next add a line like this into &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/&#34;&gt;a staged copy of your i3 config file&lt;/a&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;workspace &amp;quot;$ws1&amp;quot; output DP1
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Log back in for the changes to take effect.&lt;/p&gt;
 
@@ -4717,10 +4717,10 @@ Monitors: 1
     
     <item>
       <title>Docs: Change Bar Status indicators</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/</guid>
       <description>
         
         
@@ -4748,17 +4748,17 @@ $ cp 30_net-traffic ~/.config/regolith/i3xrocks/conf.d/80_net-traffic
 $ regolith-look refresh
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If any block configuration exists in the user directory &lt;code&gt;~/.config/regolith/i3xrocks/conf.d&lt;/code&gt;, then the defaults in &lt;code&gt;/etc/regolith/i3xrocks/conf.d&lt;/code&gt; will be ignored.&lt;/p&gt;
 &lt;h1 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h1&gt;
-&lt;p&gt;The &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; has more details about the configuration files used with Regolith Linux.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; has more details about the configuration files used with Regolith Linux.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Change Notification Systems</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/replace-notification-system/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/replace-notification-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/replace-notification-system/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/replace-notification-system/</guid>
       <description>
         
         
@@ -4779,10 +4779,10 @@ $ sudo apt purge regolith-rofication
     
     <item>
       <title>Docs: Change the Bar Date and Time Format</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/time-format/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/time-format/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/time-format/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/time-format/</guid>
       <description>
         
         
@@ -4795,13 +4795,13 @@ $ sudo apt purge regolith-rofication
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-661494f544a3245de38bcde797f05501f6dbd102ffba87968c0fc6b83f5763c7&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-time-format_hu60173cc77fce5611d11aab362b7cf444_60140_636x0_resize_catmullrom_2.png&#34; alt=&#34;&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-time-format_hu60173cc77fce5611d11aab362b7cf444_60140_636x0_resize_catmullrom_2.png&#34; alt=&#34;&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-661494f544a3245de38bcde797f05501f6dbd102ffba87968c0fc6b83f5763c7&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-time-format.png&#34; alt=&#34;&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-time-format.png&#34; alt=&#34;&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4817,13 +4817,13 @@ $ sudo apt purge regolith-rofication
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-f8bea65a33440ec314d40c0eb1f330698ae13cff72e38e86323446048097d998&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-region_hu35036ef502376a3e45b508f858f4d971_58784_636x0_resize_catmullrom_2.png&#34; alt=&#34;&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-region_hu35036ef502376a3e45b508f858f4d971_58784_636x0_resize_catmullrom_2.png&#34; alt=&#34;&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-f8bea65a33440ec314d40c0eb1f330698ae13cff72e38e86323446048097d998&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-screenshot-settings-region.png&#34; alt=&#34;&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-screenshot-settings-region.png&#34; alt=&#34;&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -4837,10 +4837,10 @@ $ sudo apt purge regolith-rofication
     
     <item>
       <title>Docs: Change the Default Terminal</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-terminal/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-terminal/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-terminal/</guid>
       <description>
         
         
@@ -4855,14 +4855,14 @@ $ sudo apt purge regolith-rofication
     
     <item>
       <title>Docs: Change the Default Window Gap</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/default-gap/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/default-gap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/default-gap/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/default-gap/</guid>
       <description>
         
         
-        &lt;p&gt;Like most configuration in Regolith, the i3-gaps gap size can be tuned via &lt;code&gt;Xresources&lt;/code&gt; (&lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/&#34;&gt;See here&lt;/a&gt; for all Xresource definitions).&lt;/p&gt;
+        &lt;p&gt;Like most configuration in Regolith, the i3-gaps gap size can be tuned via &lt;code&gt;Xresources&lt;/code&gt; (&lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/&#34;&gt;See here&lt;/a&gt; for all Xresource definitions).&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Create or add the following value to your &lt;code&gt;~/.config/regolith/Xresources&lt;/code&gt; file:&lt;/li&gt;
 &lt;/ol&gt;
@@ -4873,17 +4873,17 @@ $ sudo apt purge regolith-rofication
 &lt;/ol&gt;
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ regolith-look refresh
 &lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h1&gt;
-&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Change the lock screen program</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-lockscreen/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-lockscreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-lockscreen/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-lockscreen/</guid>
       <description>
         
         
@@ -4901,10 +4901,10 @@ $ sudo apt purge regolith-rofication
     
     <item>
       <title>Docs: Change the Terminal Font Size</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/terminal-font/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/terminal-font/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/terminal-font/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/terminal-font/</guid>
       <description>
         
         
@@ -4925,10 +4925,10 @@ $ sudo apt purge regolith-rofication
     
     <item>
       <title>Docs: Change Workspace Icons and Labels</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-workspace-icons/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-workspace-icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-workspace-icons/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-workspace-icons/</guid>
       <description>
         
         
@@ -4963,7 +4963,7 @@ $ sudo apt purge regolith-rofication
 
 
 
-&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/regolith-bar-icon.png&#34; alt=&#34;Icons on the i3 bar&#34; /&gt;
+&lt;img class=&#34;img-fluid rounded&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/regolith-bar-icon.png&#34; alt=&#34;Icons on the i3 bar&#34; /&gt;
 
 
 &lt;h3 id=&#34;changing-labels&#34;&gt;Changing Labels&lt;/h3&gt;
@@ -4978,17 +4978,17 @@ i3-wm.workspace.03.name: 3: Chat
 &lt;li&gt;Example: &lt;code&gt;Menlo, Consolas, DejaVu Sans Mono, monospace, Material Design Icons&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h1&gt;
-&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Find and Install Packages</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/find-install-packages/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/find-install-packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/find-install-packages/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/find-install-packages/</guid>
       <description>
         
         
@@ -5015,10 +5015,10 @@ $ apt list &amp;lt;package name&amp;gt; # finds all packages
     
     <item>
       <title>Docs: Launch Default i3 Session</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/vanilla-i3-gaps/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/vanilla-i3-gaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/vanilla-i3-gaps/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/vanilla-i3-gaps/</guid>
       <description>
         
         
@@ -5038,10 +5038,10 @@ $ apt list &amp;lt;package name&amp;gt; # finds all packages
     
     <item>
       <title>Docs: Manage a To-Do List</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/tdcli-blocklet/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/tdcli-blocklet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/tdcli-blocklet/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/tdcli-blocklet/</guid>
       <description>
         
         
@@ -5062,13 +5062,13 @@ td a &amp;quot;Write a Howto for td-cli&amp;quot;
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-bc95f0df8a9399c12d60c6c02762b70a6bf737f8d00de2e7b5482d9648b0d32e&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/tdcli_hu777880323f4f6f4c3f68a5087e4cba8c_7166_636x0_resize_catmullrom_2.png&#34; alt=&#34;The td-cli indicator on the i3 bar&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/tdcli_hu777880323f4f6f4c3f68a5087e4cba8c_7166_636x0_resize_catmullrom_2.png&#34; alt=&#34;The td-cli indicator on the i3 bar&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-bc95f0df8a9399c12d60c6c02762b70a6bf737f8d00de2e7b5482d9648b0d32e&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/tdcli.png&#34; alt=&#34;The td-cli indicator on the i3 bar&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/tdcli.png&#34; alt=&#34;The td-cli indicator on the i3 bar&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -5083,13 +5083,13 @@ td a &amp;quot;Write a Howto for td-cli&amp;quot;
 
 
 &lt;img data-toggle=&#34;modal&#34; data-backdrop=&#34;false&#34; data-target=&#34;#img-modal-3769fe050f571424c291233027e22c2db94659613213c9d4dc80a8a55e04cf07&#34; class=&#34;rounded img-fluid&#34;
-	src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/tdcli_window_hu16c3bd0894e2efb0c45444a7970c083a_23738_636x0_resize_catmullrom_2.png&#34; alt=&#34;The td-cli pop-out window&#34; /&gt;
+	src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/tdcli_window_hu16c3bd0894e2efb0c45444a7970c083a_23738_636x0_resize_catmullrom_2.png&#34; alt=&#34;The td-cli pop-out window&#34; /&gt;
 
 &lt;div class=&#34;modal&#34; id=&#34;img-modal-3769fe050f571424c291233027e22c2db94659613213c9d4dc80a8a55e04cf07&#34;&gt;
 	&lt;div class=&#34;modal-dialog modal-xl modal-dialog-centered&#34;&gt;
 		&lt;div class=&#34;modal-content rounded&#34;&gt;
 			&lt;div class=&#34;modal-body&#34;&gt;
-				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r151/regolith-site-r151/images/tdcli_window.png&#34; alt=&#34;The td-cli pop-out window&#34; /&gt;
+				&lt;img class=&#34;img-fluid&#34; data-dismiss=&#34;modal&#34; src=&#34;https://regolith-linux.github.io/regolith-site-r152/regolith-site-r152/images/tdcli_window.png&#34; alt=&#34;The td-cli pop-out window&#34; /&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -5113,10 +5113,10 @@ i3-wm.bindsym.program.1: /usr/bin/gnome-terminal --class=floating_window -e &#39
     
     <item>
       <title>Docs: Override Xresources</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/override-xres/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/override-xres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/override-xres/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/override-xres/</guid>
       <description>
         
         
@@ -5163,7 +5163,7 @@ i3-wm.bindsym.program.1: /usr/bin/gnome-terminal --class=floating_window -e &#39
 &lt;/table&gt;
 &lt;p&gt;It is recommended to use &lt;code&gt;~/.config/regolith/Xresources&lt;/code&gt; for customization as it doesn&amp;rsquo;t require the specification of redundant settings and is easier to maintain over time.&lt;/p&gt;
 &lt;h2 id=&#34;determining-which-values-can-be-changed&#34;&gt;Determining which values can be changed&lt;/h2&gt;
-&lt;p&gt;The &lt;code&gt;xrdb&lt;/code&gt; tool can be used to list the existing &lt;code&gt;Xresources&lt;/code&gt; values. &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/xresources/&#34;&gt;There is a number of existing overrides&lt;/a&gt; in the R1.4.1 release:&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;xrdb&lt;/code&gt; tool can be used to list the existing &lt;code&gt;Xresources&lt;/code&gt; values. &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/xresources/&#34;&gt;There is a number of existing overrides&lt;/a&gt; in the R1.4.1 release:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ xrdb -query
 [...]
 gnome.icon.theme:	Moka
@@ -5210,24 +5210,24 @@ $ echo &amp;quot;i3-wm-alt: Mod4&amp;quot; &amp;gt;&amp;gt; ~/.config/regolith/X
 &lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;$ echo &amp;quot;i3-wm.program.1: /usr/bin/nm-applet&amp;quot; &amp;gt;&amp;gt; ~/.config/regolith/Xresources
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This change requires you to log back in before the change takes effect.&lt;/p&gt;
 &lt;h1 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h1&gt;
-&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Stage Config Files</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/stage-configs/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/stage-configs/</guid>
       <description>
         
         
         
 
 &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
-&lt;p&gt;If you only wish to override or provide new &lt;code&gt;Xresources&lt;/code&gt; values, staging configs is no longer required. Overriding &lt;code&gt;Xresources&lt;/code&gt; value is described in a separate article](&lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/override-xres/&#34;&gt;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/override-xres/&lt;/a&gt;) for more details.&lt;/p&gt;
+&lt;p&gt;If you only wish to override or provide new &lt;code&gt;Xresources&lt;/code&gt; values, staging configs is no longer required. Overriding &lt;code&gt;Xresources&lt;/code&gt; value is described in a separate article](&lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/override-xres/&#34;&gt;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/override-xres/&lt;/a&gt;) for more details.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -5261,16 +5261,16 @@ $ cp /etc/regolith/i3/config ~/.config/regolith/i3/config
     
     <item>
       <title>Docs: Support Multiple Batteries</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/multiple-batteries/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/multiple-batteries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/multiple-batteries/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/multiple-batteries/</guid>
       <description>
         
         
         &lt;p&gt;Out of the box the primary battery status will be displayed in the i3-bar. For some laptops that have multiple batteries, e.g. ThinkPads, you want to have both batteries displayed:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/howtos/add-remove-blocklets/#customize-bar&#34;&gt;Stage your i3xrocks configuration files&lt;/a&gt;, then open &lt;code&gt;~/.config/regolith/i3xrocks/conf.d/80_battery&lt;/code&gt; in your editor of choice.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/howtos/add-remove-blocklets/#customize-bar&#34;&gt;Stage your i3xrocks configuration files&lt;/a&gt;, then open &lt;code&gt;~/.config/regolith/i3xrocks/conf.d/80_battery&lt;/code&gt; in your editor of choice.&lt;/li&gt;
 &lt;li&gt;Find the line that pertains to the battery blocklet:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;pre&gt;&lt;code class=&#34;language-conf&#34; data-lang=&#34;conf&#34;&gt;# Battery indicator
@@ -5300,23 +5300,23 @@ instance=BAT0
 interval=30
 instance=BAT1
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h2&gt;
-&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/reference/configurations/&#34;&gt;reference page for configurations&lt;/a&gt; for more details about config files in Regolith.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Switch between Regolith PPAs</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-ppa/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-ppa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/change-ppa/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/change-ppa/</guid>
       <description>
         
         
         &lt;p&gt;This page describes how to configure the package system to consume Regolith packages between a set of PPAs.&lt;/p&gt;
 &lt;h2 id=&#34;regolith-ppas&#34;&gt;Regolith PPAs&lt;/h2&gt;
-&lt;p&gt;See this section for &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r151/docs/getting-started/install/#ppa-sources&#34;&gt;a description of each PPA&lt;/a&gt;. By default users will be on the &lt;code&gt;release&lt;/code&gt; PPA which is intended to only be updated upon bug fixes and versioned releases. Here is how to switch to the &lt;code&gt;unstable&lt;/code&gt; PPA, by updating the apt packaging configuration:&lt;/p&gt;
+&lt;p&gt;See this section for &lt;a href=&#34;https://regolith-linux.github.io/regolith-site-r152/docs/getting-started/install/#ppa-sources&#34;&gt;a description of each PPA&lt;/a&gt;. By default users will be on the &lt;code&gt;release&lt;/code&gt; PPA which is intended to only be updated upon bug fixes and versioned releases. Here is how to switch to the &lt;code&gt;unstable&lt;/code&gt; PPA, by updating the apt packaging configuration:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Remove the existing &lt;code&gt;release&lt;/code&gt; PPA:&lt;/li&gt;
 &lt;/ol&gt;
@@ -5341,10 +5341,10 @@ $ sudo apt update
     
     <item>
       <title>Docs: Update packages selectively</title>
-      <link>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/install-from-unstable/</link>
+      <link>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/install-from-unstable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.github.io/regolith-site-r151/docs/howtos/install-from-unstable/</guid>
+      <guid>https://regolith-linux.github.io/regolith-site-r152/docs/howtos/install-from-unstable/</guid>
       <description>
         
         
